@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b530d03859037e2d999d659bdb20d730",
+    "content-hash": "1714f3bd60712e606a6785d1ac6507ff",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.133.31",
+            "version": "3.133.43",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "330a696c1f1de0267921f732602e55fb3ddfd550"
+                "reference": "7c8211d403614f83ce499ee217248660456d2f46"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/330a696c1f1de0267921f732602e55fb3ddfd550",
-                "reference": "330a696c1f1de0267921f732602e55fb3ddfd550",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/7c8211d403614f83ce499ee217248660456d2f46",
+                "reference": "7c8211d403614f83ce499ee217248660456d2f46",
                 "shasum": ""
             },
             "require": {
@@ -88,7 +88,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2020-03-06T19:16:46+00:00"
+            "time": "2020-03-24T18:18:11+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -280,17 +280,17 @@
             "time": "2019-07-01T23:21:34+00:00"
         },
         {
-            "name": "leosarli/disarli-aws-service-discovery-php",
+            "name": "leodisarli/disarli-aws-service-discovery-php",
             "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/leodisarli/disarli-aws-service-discovery-php.git",
-                "reference": "30ea1d36d0167709c155f82e41dfc768cd4062f5"
+                "reference": "97efe4a0a9450b0a23e9752af982bb2c0dbb9748"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/leodisarli/disarli-aws-service-discovery-php/zipball/30ea1d36d0167709c155f82e41dfc768cd4062f5",
-                "reference": "30ea1d36d0167709c155f82e41dfc768cd4062f5",
+                "url": "https://api.github.com/repos/leodisarli/disarli-aws-service-discovery-php/zipball/97efe4a0a9450b0a23e9752af982bb2c0dbb9748",
+                "reference": "97efe4a0a9450b0a23e9752af982bb2c0dbb9748",
                 "shasum": ""
             },
             "require": {
@@ -319,7 +319,7 @@
                 }
             ],
             "description": "PHP library to use aws service discovery",
-            "time": "2020-03-07T18:14:48+00:00"
+            "time": "2020-03-25T12:52:37+00:00"
         },
         {
             "name": "mtdowling/jmespath.php",
